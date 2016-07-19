@@ -1,35 +1,10 @@
 # cybermanager
 This is an open source, web based tool that allows Cyber Cafe owners to manage their customer logins, invoices and other activities- online, easily.
-
- 
 <table align="center" class="readme_border" cellpadding="1" cellspacing="2" width="670">
   <tbody>
     <tr>
-      <td align="center" class="readme_border"><img src="images/cm_small.gif" alt="Cyber Manager (v1.0) -Logo" /></td>
-      <td height="74" align="center" class="welcome readme_border">Welcome to<br /> 
-      Cyber Manager(v1.0)</td>
-      <td align="center"class="readme_border"><img src="images/cm_small.gif" alt="Cyber Manager (v1.0) -Logo" /></td>
-    </tr>
-    <tr>
-      <td height="74" colspan="3"><strong>Introduction</strong> </td>
-    </tr>
-    <tr>
-      <td height="74" colspan="3"><p>Cyber Manager(v1.0)  is the professional application aimed at making cyber cafe management process a flexible, easy and smooth process. Developed using latest tools and technologies and by implementing strict security and safety standards, Cyber Manager(v1.0) helps you  increas your business profit margins and that's too by keeping your customer's confidential data secured.</p>
-          <p>&nbsp;</p>      </td>
-    </tr>
-    <tr>
-      <td height="18" colspan="3"><blockquote>
-        <p> <strong>Get Started<br />
-          </strong><em>First thing First:<br />
-          Downloadload </em>Cyber Manager (1.0) from the <a href="#"><strong>developer's blog</strong></a> <sup>1</sup>. You may also download this application directly from the the famous open source software directory <a href="#"><em><strong>sorce-forge</strong></em></a> <sup>2</sup>. </p>
-        <p>&nbsp;</p>
-        </blockquote></td>
-    </tr>
-    <tr>
-      <td colspan="3">&nbsp;</td>
-    </tr>
-    <tr>
-      <td colspan="3"><hr size="1" align="left" /></td>
+      <td height="74" colspan="3"><p>Cyber Manager(v1.0) is the professional application aimed at making cyber cafe management process a flexible, easy and smooth one. Developed using latest tools and technologies and by implementing security standards, Cyber Manager(v1.0) helps you improve your cybercafe business profit margins and that's too by keeping your customer's confidential data secured.</p>
+        </td>
     </tr>
     <tr>
       <td colspan="3" class="heading">Pre-requiste to download/Install/Use this CyberManager(v1.0) : </td>
@@ -56,7 +31,7 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
             </strong>
             <p>You may install and run this application on your localhost or your local computer drive just as you use many other desktop applications. Follow the steps to install and use this application on your local server or local computer drive: 
 		<ul type="disc">
-			<li><a href="#">Download</a> the application and unzip the folder(cybermanager.zip).</li>
+			<li><a href="https://sourceforge.net/projects/cybermanager/files/latest/download?source=directory" target="_blank">Download</a> the application and unzip the folder(cybermanager.zip).</li>
 				    <li>You need a local server to run this application, so download the local server such as wamp or xamp; i prefer and suggest wamp server for your ease of installation and use. <a href="http://www.wampserver.com/en/download.php" target="_blank" title="Download WAMP server from here">Download wamp from here</a>.</li>
 				    <li>Now you have installed wamp(or other local server ) on your computer, copy the entire unzipped folder of &quot;cybermanager&quot; into your local server's web project directory. As for example for wamp - copy it in c:\wamp\www (so it will look like &quot;C:\wamp\www\cybermanager&quot;). </li>
 		            <li>Now find out the database (database.sql) file in cybermanager folder. And use the import database wizard of your local server (most probably <strong>phpmyadmin</strong> provides this facility to import any database file through its GUI module to create database and tables.</li>
@@ -71,7 +46,7 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
           <h3><strong>Onine Mode (On Web Server/website):</strong></h3>          
           <p>Installing and using this application on your website (simply online/over internet) is as simple as it is using offline. Except a couple of different stepls, nothing is different in installing and using this application online in compare to offline. See what's the different and how can you run and use this application on your website: </p>
           <ul type="disc">
-            <li><a href="#">Download</a> the application and unzip the folder(cybermanager.zip).</li>
+            <li><a href="https://sourceforge.net/projects/cybermanager/files/latest/download?source=directory">Download</a> the application and unzip the folder(cybermanager.zip).</li>
             <li>You need a web server to run this application, Remember that your webserver account is nothing but the account on which your website is running or being hosted. Just check and confirm that you have gotta mysql database and php installed on your webserver; if not, consult your web hosting company. </li>
             <li>Upload the unzipped cybermanager folder on your web server using any FTP programme such as <a href="http://filezilla-project.org/download.php" target="_blank" title="Download FileZilla from here"><em><strong>FileZilla</strong> </em></a></li>
             <li>Open your web server's cPanel and go to phpmysql database section, create a database using GUI database creation wizzard; write database name as &quot;cybermanager&quot;. Create username and password as manager and assign all privilleges to the said user.  </li>
@@ -83,45 +58,22 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
           </ul></td>
     </tr>
 	<tr>
-	  <td colspan="3">&nbsp;</td>
-    </tr>
-	<tr>
-		<td colspan="3"><strong>&nbap;</strong></td>
-	</tr>
-	<tr>
-	  <td colspan="3">&nbsp;</td>
-    </tr>
-	<tr>
 	  <td colspan="3" class="heading"><h3>Important Help Resources (External Tutorial Reference Links):</h3> </td>
     </tr>
 	<tr>
-	  <td colspan="3">&nbsp;</td>
-    </tr>
-	<tr>
 	  <td colspan="3">
-	  	<table border="0" align="center" class="readme_border" width="100%" cellpadding="2" cellspacing="3">
+	  	<table border="0" align="center" class="readme_border" width="auto" cellpadding="1" cellspacing="1">
 			<tr>
-				<td align="center" class="readme_border"><a href="http://www.wampserver.com" target="_blank"><img src="images/logo-wamp-server.gif" width="91" height="55" title="Learn more about WampServer" /></a></td>
-				<td align="center" class="readme_border"><a href="http://filezilla-project.org" target="_blank"><img src="images/logo-filezilla.gif" width="64" height="64" title="Learn more about FileZilla FTP Softwarae"/></a></td>
-				<td align="center" class="readme_border"><a href="http://www.mysql.com" target="_blank"><img src="images/logo-mysql.gif" width="64" height="64" title="Learn more about MySQL Database"/></a></td>
-				<td align="center" class="readme_border"><a href="http://www.phpmyadmin.net/home_page/index.php" target="_blank"><img src="images/logo-phpmyadmin.gif" width="64" height="64" title="Learn more about phpMyAdmin Host" border="1" /></a></td>
+				<td align="center" class="readme_border"><a href="http://www.wampserver.com" target="_blank">WAMP Server</a></td>
+				<td align="center" class="readme_border"><a href="http://filezilla-project.org" target="_blank">FileZilla FTP Softwarae</td>
+				<td align="center" class="readme_border"><a href="http://www.mysql.com" target="_blank">MySQL Database (Comes pre-loaded with WAMP Server)</td>
+				<td align="center" class="readme_border"><a href="http://www.phpmyadmin.net/home_page/index.php" target="_blank">phpMyAdmin (Comes pre-loaded with WAMP Server/MySQL</a></td>
 			</tr>
-			<tr>
-			  <td align="center" class="readme_border"><strong>WampServer</strong></td>
-			  <td align="center" class="readme_border"><strong>FileZilla</strong></td>
-			  <td align="center" class="readme_border"><strong>MySQL</strong></td>
-			  <td align="center" class="readme_border"><strong>phpMyAdmin</strong></td>
-		  </tr>
-		</table>	  </td>
+		</table>
+        </td>
     </tr>
 	<tr>
-	  <td colspan="3">&nbsp;</td>
-    </tr>
-	<tr>
-	  <td colspan="3">More questions about Cyber Manager(v1.0)?....Read out our <a href="faq.php"><em><strong>FAQ file</strong> </em></a></td>
-    </tr>
-	<tr>
-	  <td colspan="3">&nbsp;</td>
+	  <td colspan="3">More questions about Cyber Manager(v1.0)?....Read out our <a href="faq.php"><em><strong>FAQ file</strong></em></a></td>
     </tr>
 	<tr>
 	  <td colspan="3"><sup>1</sup> Log on to www.moinshaikh.wordpress.com to download CyberManager(v1.0)</td>
@@ -131,6 +83,3 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
-</body>
-</html>
