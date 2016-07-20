@@ -4,14 +4,14 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
 <table align="center" class="readme_border" cellpadding="1" cellspacing="2" width="670">
   <tbody>
     <tr>
-      <td height="74" colspan="3"><p>Cyber Manager(v1.0) is the professional application aimed at making cyber cafe management process a flexible, easy and smooth one. Developed using latest tools and technologies and by implementing security standards, Cyber Manager(v1.0) helps you improve your cybercafe business profit margins and that's too by keeping your customer's confidential data secured.</p>
+      <td height="74" colspan="3"><p>Cyber Manager(v1.0) is the web based application aimed at making cyber cafe management process a flexible, easy and smooth one. Developed using latest tools and technologies and by implementing security standards, Cyber Manager(v1.0) helps you improve your cybercafe business profit margins and that's too by keeping your customer's confidential data secured.</p>
         </td>
     </tr>
     <tr>
       <td colspan="3" class="heading">Pre-requiste to download/Install/Use this CyberManager(v1.0) : </td>
     </tr>
     <tr>
-      <td colspan="3">Although, this application has been developed with an aim to reduce the burden of the cyber cafe administrators, there are a couple of Pre-requiste you must full-fill to download/install/use this application in order to make your cyber cafe management activity a smoother one. These Pre-requistes are : 
+      <td colspan="3">Although this application has been developed with an aim to reduce the burden of the cyber cafe administrators, there are a couple of pre-requiste you need to full-fill in order to download/install/use this application and  to make your cyber cafe management activity a smoother one. These Pre-requistes are : 
 	  <ul type="square">
 	  	<li>Although you need not to be a programmer or a computer/software field expert but you should have a clear or atleast basic idea of what database is and why it is</li>
 	    <li>Moreover, you need to know first what is a localhost or web server </li>
