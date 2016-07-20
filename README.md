@@ -11,7 +11,7 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
       <td colspan="3" class="heading">Pre-requiste to download/Install/Use this CyberManager(v1.0) : </td>
     </tr>
     <tr>
-      <td colspan="3">Although this application has been developed with an aim to reduce the burden of the cyber cafe administrators, there are a couple of pre-requiste you need to full-fill in order to download/install/use this application and  to make your cyber cafe management activity a smoother one. These Pre-requistes are : 
+      <td colspan="3">There are a couple of pre-requiste you need to full-fill in order to download/install/use this application and to make your cyber cafe management activity a smoother one. These Pre-requistes are : 
 	  <ul type="square">
 	  	<li>Although you need not to be a programmer or a computer/software field expert but you should have a clear or atleast basic idea of what database is and why it is</li>
 	    <li>Moreover, you should have an idea about localhost and  web server. </li>
@@ -23,14 +23,14 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
 	  </td>
     </tr>
     <tr>
-      <td colspan="3"><strong>Two ways to install and use Cyber Manager(v1.0)</strong> : Choose the one that fits you best. </td>
+      <td colspan="3"><strong>Two options to install and use Cyber Manager(v1.0)</strong> : Choose the one that fits you best. </td>
     </tr>
     <tr>
       <td colspan="3"><p>You can install and use Cyber Manager(v1.0) in any of the following way .</p>
           <p><strong>
-            <h3>Offline Mode (On Local Server/localhost):</h3>
+            <h3>Offline Mode (On Local Server/localhost [On your own computer!]):</h3>
             </strong>
-            <p>You may install and run this application on your localhost or your local computer drive just as you use many other desktop applications. Follow the steps to install and use this application on your local server or local computer drive: 
+            <p>You may install and run this application on your localhost or your local computer drive just as you do with many other desktop applications. Follow the steps to install and use this application on your local machine/server/local computer drive: 
 		<ul type="disc">
 			<li><a href="https://sourceforge.net/projects/cybermanager/files/latest/download?source=directory" target="_blank">Download</a> the application and unzip the folder(cybermanager.zip).</li>
 				    <li>You need a local server to run this application, so download the local server such as wamp or xamp; i prefer and suggest wamp server for your ease of installation and use. <a href="http://www.wampserver.com/en/download.php" target="_blank" title="Download WAMP server from here">Download wamp from here</a>.</li>
