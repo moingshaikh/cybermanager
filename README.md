@@ -14,10 +14,10 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
       <td colspan="3">Although this application has been developed with an aim to reduce the burden of the cyber cafe administrators, there are a couple of pre-requiste you need to full-fill in order to download/install/use this application and  to make your cyber cafe management activity a smoother one. These Pre-requistes are : 
 	  <ul type="square">
 	  	<li>Although you need not to be a programmer or a computer/software field expert but you should have a clear or atleast basic idea of what database is and why it is</li>
-	    <li>Moreover, you need to know first what is a localhost or web server </li>
-	    <li>You should have a little bit knowledge about viewing and adding/editing and deleting database records.</li>
-	    <li>If you are going to run and use this application online, then you should have knowlege of web host account (cPanel), database account/phpMyAdmin (if you don't know what all these is, just cosult your web hosting company and ask them to do this (installation ) for you! </li>
-	    <li class="heading">And last but not least, if you don't have any idea of any of these terms, YOU MUST HAVE AN IDEA THAT EXTERNAL TUTORIAL REFERENCE LINKS ARE GIVEN AT THE BOTTOM OF THIS PAGE! </li>
+	    <li>Moreover, you should have an idea about localhost and  web server. </li>
+	    <li>You should also have a little bit knowledge about viewing and adding/editing and deleting database records, i.e. you should know the basic databased CRUD statements (Insert, Update, Delete, Search).</li>
+	    <li>If you are going to run and use this application online, then you should have knowlege of web hosting account (cPanel etc.), database account/phpMyAdmin (if you don't know about all this stuff, you can cosult your web hosting company and ask them to do this (installation ) for you! </li>
+	    <li class="heading">And last but not least, if you don't have any idea of any of these terms, just refer to the  EXTERNAL TUTORIAL REFERENCE LINKS given at the bottom of this page!</li>
 	  </ul>
 	  
 	  </td>
