@@ -33,7 +33,7 @@
  <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>About Cyber Manager(v1.0)</title>
+<title>About Cyber Manager(v1.0) - Online, Web Based Cyber Cafe Management Application.</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 <script type="text/javascript" language="javascript" src="js/validation.js"></script>
