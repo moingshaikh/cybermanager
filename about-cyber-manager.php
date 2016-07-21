@@ -98,11 +98,11 @@
 						<li>Easy to Use. </li>
 						<li>Strong security mechanisms. </li>
 						<li>User Friendly Interface. </li>
-						<li>Easily available. (via many open source software directories.) </li>
+						<li>Source code asily available for quick download and install. (via sourceforge.net / GitHub.) </li>
 						<li>Can be customized by users as per their specific needs.</li>
-						<li>Cross Browser Support.</li>
+						<li>Cross browsers compatibility.</li>
 						<li>Basic FAQs (Trouble Shoot Guide) available for trouble shoot.</li>
-						<li>Updates will be released time by time.</li>
+						<li>Updates with new features/improvements will be released from time to time.</li>
 					</ul>
 				</td>
 			</tr>
