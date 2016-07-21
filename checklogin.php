@@ -1,4 +1,5 @@
 <!--
+*CHECKLOGIN.PHP*
 /*
 * Cyber Manager (v1.0) - Free For All Cyber Cafe Solution
 * http://www.moinshaikh.wordpress.com
