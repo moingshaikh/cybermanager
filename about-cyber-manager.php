@@ -101,7 +101,7 @@
 						<li>Easily available. (via many open source software directories.) </li>
 						<li>Can be customized by users as per their specific needs.</li>
 						<li>Cross Browser Support.</li>
-						<li>Basic FAQs available for trouble shoot.</li>
+						<li>Basic FAQs (Trouble Shoot Guide) available for trouble shoot.</li>
 						<li>Updates will be released time by time.</li>
 					</ul>
 				</td>
