@@ -1,0 +1,144 @@
+.body {
+background-color:#529FD5;
+height:100%;
+}
+.customer_card{
+font-family:"Times New Roman", Times, serif;
+color:#000000;
+font-size:12px;
+}
+.cust-card-border {
+border:solid;
+border-color:#000000;
+}
+
+/* cpanel styles begin now */
+
+.arrowlistmenu{
+width: 100%; /*width of accordion menu*/
+text-decoration:none;
+}
+
+.arrowlistmenu .menuheader{ /*CSS class for menu headers in general (expanding or not!)*/
+font: bold 14px Arial;
+color: #000000;
+background: #99CCFF url(images/123.jpg) repeat-x center left;
+margin-bottom: 10px; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 4px 0 4px 10px; /*header text is indented 10px*/
+cursor: hand;
+cursor: pointer;
+text-decoration:none;
+}
+
+.arrowlistmenu .openheader{ /*CSS class to apply to expandable header when it's expanded*/
+background-image: url(images/123.jpg);
+text-decoration:none;
+}
+
+.arrowlistmenu ul{ /*CSS for UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 8px; /*bottom spacing between each UL and rest of content*/
+text-decoration:none;
+}
+
+.arrowlistmenu ul li{
+padding-bottom: 2px; /*bottom spacing between menu items*/
+text-decoration:none;
+}
+
+.arrowlistmenu ul li .opensubheader{ /*Open state CSS for sub menu header*/
+background: lightblue;
+text-decoration:none;
+}
+
+.arrowlistmenu ul li .closedsubheader{ /*Closed state CSS for sub menu header*/
+background: lightgreen;
+text-decoration:none;
+}
+
+.arrowlistmenu ul li a{
+color: #A70303;
+background: url(images\arrowbullet.png) no-repeat center left; /*custom bullet list image*/
+display: block;
+padding: 2px 0;
+padding-left: 19px; /*link text is indented 19px*/
+text-decoration: none;
+font-weight: bold;
+border-bottom: 1px solid #dadada;
+font-size: 90%;
+text-decoration:none;
+}
+
+.arrowlistmenu ul li a:visited{
+color: #000000;
+text-decoration:none;
+}
+
+.arrowlistmenu ul li a:hover{ /*hover state CSS*/
+background-color: #99CCFF;
+text-decoration:none;
+}
+
+.arrowlistmenu ul li a.subexpandable:hover{ /*hover state CSS for sub menu header*/
+text-decoration:none;
+background: #993333;
+}
+.form-bg {
+background:#529FD5;
+border:1px #FFFFFF;
+ }
+.form-text-box{
+color: #0066FF;
+font-weight:bold;
+}
+.form-text-titles {
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+.cpanel-table {
+border:1px;
+border-color:#FFFFFF;
+background:#3184C6;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-size:12px;
+font-weight:bold;
+}
+.cm-logo-bg {
+background-color:#FFFFFF;
+}
+.cm-logo {
+background-image:url(../images/cm-logo.jpg);
+background-repeat:no-repeat;
+background:#FFFFFF;
+}
+
+<!-- readme.html styles begins here -->
+
+.help {
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+color:#006699;
+text-decoration:none;
+}
+.about-page-text {
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-size:12px;
+text-align:justify;
+}
+.faq-quest-cat {
+font-family:Arial, Helvetica, sans-serif;
+color:#0066CC;
+font-weight:bold;
+font-size:14px;
+text-align:justify;
+}
+#faq-quest a:link {font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; text-align:justify; font-weight:bold}
+#faq-quest a:visited {font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; text-align:justify; font-weight:bold}
+#faq-quest a:hover {font-family:Arial, Helvetica, sans-serif; color:#0099CC; font-size:12px; text-align:justify; font-weight:bold}
+#faq-quest a:active {font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; text-align:justify; font-weight:bold}
