@@ -56,6 +56,5 @@ session_register("password");
 header("location:cpanel.php");
 }
 else {
-echo "<h2>Incorrect Login Details!</h2>"; // Show error message on incorrect login details.
-}
+echo "<h2>Incorrect Login Details!</h2>"; // Show error message on incorrect login details i.e. when the either or both of the entered details don't match with that of in the database.
 ?>
