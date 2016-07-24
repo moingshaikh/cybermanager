@@ -30,7 +30,7 @@
 */
  -->
  <?php
-include("dbconfig.php");
+include("dbconfig.php"); // cal the Database configuration file.
 
 // username and password sent from form
 $username=isset($_POST['username']) ? $_POST["username"] : "";
