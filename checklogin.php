@@ -1,5 +1,5 @@
 <!--
-*CHECKLOGIN.PHP - This will check for the login status before the admin/user can use this application.*
+*CHECKLOGIN.PHP - This will check for the login condition before the admin/user can use this application.*
 /*
 * Cyber Manager (v1.0) - Free For All Cyber Cafe Solution
 * http://www.moinshaikh.wordpress.com
