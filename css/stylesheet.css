@@ -15,11 +15,11 @@ border-color:#000000;
 /* cpanel styles begin now */
 
 .arrowlistmenu{
-width: 100%; /*width of accordion menu*/
+width: 100%; /*width for accordion menu*/
 text-decoration:none;
 }
 
-.arrowlistmenu .menuheader{ /*CSS class for menu headers in general (expanding or not!)*/
+.arrowlistmenu .menuheader{ /*CSS class for the menu headers in general (expanding or not!)*/
 font: bold 14px Arial;
 color: #000000;
 background: #99CCFF url(images/123.jpg) repeat-x center left;
@@ -36,7 +36,7 @@ background-image: url(images/123.jpg);
 text-decoration:none;
 }
 
-.arrowlistmenu ul{ /*CSS for UL of each sub menu*/
+.arrowlistmenu ul{ /*CSS for <UL> element of each sub menu*/
 list-style-type: none;
 margin: 0;
 padding: 0;
