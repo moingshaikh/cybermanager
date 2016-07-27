@@ -18,7 +18,7 @@ USE `cybermanager`;
 -- --------------------------------------------------------
 
 --
--- Table structure for table `admin`
+-- Table structure for the table `admin`
 --
 
 CREATE TABLE IF NOT EXISTS `admin` (
