@@ -26,13 +26,13 @@ function ValidateAddCustForm()
     }
 	    else if (document.add_customer.city.value == "" )
     {
-        alert ( "Please enter your 'City's Name'." );
+        alert ( "Please enter your 'City Name'." );
 		add_customer.city.focus();
         valid = false;
     }
 	    else if (document.add_customer.pincode.value == "" )
     {
-        alert ( "Please enter your 'Pincode Number'." );
+        alert ( "Please enter your 'Area Pincode'." );
 		add_customer.pincode.focus();
         valid = false;
     }
