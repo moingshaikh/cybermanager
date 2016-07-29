@@ -19,7 +19,7 @@ width: 100%; /*width for accordion menu*/
 text-decoration:none;
 }
 
-.arrowlistmenu .menuheader{ /*CSS class for the menu headers in general (expanding or not!)*/
+.arrowlistmenu .menuheader { /*CSS class for the menu headers in general (expanding or not!)*/
 font: bold 14px Arial;
 color: #000000;
 background: #99CCFF url(images/123.jpg) repeat-x center left;
