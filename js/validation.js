@@ -4,7 +4,7 @@ function ValidateAddCustForm()
 {
     valid = true;
 
-    if ( document.add_customer.f_name.value == "" )
+    if (document.add_customer.f_name.value == "" )
     {
         alert ( "Please enter your 'First Name'." );
 		add_customer.f_name.focus();
@@ -78,19 +78,19 @@ function ValidateAddCustForm()
 		add_customer.id_proof.focus();
         valid = false;
     }
-	    else if ( document.add_customer.id_proof_reg_no.value == "" )
+	    else if (document.add_customer.id_proof_reg_no.value == "" )
     {
         alert ( "Please enter 'ID Proof Number'." );
 		add_customer.id_proof_reg_no.focus();
         valid = false;
     }
-	    else if ( document.add_customer.id_expiry_date.value == "" )
+	    else if (document.add_customer.id_expiry_date.value == "" )
     {
         alert ( "Please enter 'ID Proof Expiry Date'." );
 		add_customer.id_expiry_date.focus();
         valid = false;
     }
-	    else if ( document.add_customer.id_proof_image.value == "" )
+	    else if (document.add_customer.id_proof_image.value == "" )
     {
         alert ( "Please upload your 'ID Proof Image from Computer'." );
 		add_customer.id_proof_image.focus();
