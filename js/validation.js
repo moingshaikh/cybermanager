@@ -92,7 +92,7 @@ function ValidateAddCustForm()
     }
 	    else if ( document.add_customer.id_proof_image.value == "" )
     {
-        alert ( "Please upload 'ID Proof Image from Computer'." );
+        alert ( "Please upload your 'ID Proof Image from Computer'." );
 		add_customer.id_proof_image.focus();
         valid = false;
     }
