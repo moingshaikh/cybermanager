@@ -4,7 +4,7 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
 <table align="center" class="readme_border" cellpadding="1" cellspacing="2" width="670">
   <tbody>
     <tr>
-      <td height="74" colspan="3"><p>Cyber Manager(v1.0) is the web based application aimed at making cyber cafe management process a flexible, easy and smooth one. Developed using latest tools and technologies and by implementing security standards, Cyber Manager(v1.0) helps you improve your cybercafe business profit margins and that's too by keeping your customer's confidential data secured.</p>
+      <td height="74" colspan="3"><p>Cyber Manager(v1.0) is a web based opensource application aimed at making cyber cafe management process a flexible, easy and smooth one. Developed using latest tools and technologies and by implementing security standards, Cyber Manager(v1.0) helps you improve your cybercafe business profit margins and that's too by keeping your customer's confidential data secured.</p>
         </td>
     </tr>
     <tr>
