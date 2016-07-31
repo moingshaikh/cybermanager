@@ -55,7 +55,7 @@ This is an open source, web based tool that allows Cyber Cafe owners to manage t
             <li>After having created/imported database, its time to  check for the <strong>phpmyadmin</strong> username and password, the defual username of <strong>phpmyadmin</strong> for cybermanager is &quot;manager&quot; and password is &quot;manager&quot;. If you wish to change username / password of this application, you can do so by changing it in the file called &quot;<strong>dbconfig.php</strong>&quot;</li>
             <li>Almost done! Just point out your browser to &quot;<strong>http://yourdomainaddress/cybermanager/</strong>&quot; and you are ready to go!. </li>
             <li>Enter username &quot;admin&quot; and password &quot;admin&quot; to get access to cpanel of cybermanger and start off to reduce your daily burden! If you ever wish to change user name or password for the cpanel, you can do so by changing it going to admin table in <strong>phpmyadmin</strong> <em>- see admin table there and two colum in that table (one for username and other for password). </em></li>
-            <li><em>Learn more about using this application and using many modules of this application in &quot;<strong>faq.php</strong>&quot; page of this application provided to you in this same folder. <strong>Happy Cybering!</strong></em> </li>
+            <li><em>Learn more about using this application and using many modules of this application in &quot;<strong>faq.php</strong>&quot; page of this application provided to you in this same folder. <strong>Happy Cyber Management!</strong></em> </li>
           </ul></td>
     </tr>
 	<tr>
