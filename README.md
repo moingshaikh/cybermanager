@@ -1,4 +1,4 @@
-# Cyber Manager (v1.0)
+# Cyber Manager(v1.0)
 # This project is being updated with neccessary code files. We will update this README file once all the code stuff is done!
 This is an open source, web based tool that allows Cyber Cafe owners to manage their customer logins, invoices and other activities- online, easily.
 <table align="center" class="readme_border" cellpadding="1" cellspacing="2" width="670">
