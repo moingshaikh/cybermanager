@@ -115,7 +115,7 @@
 				<td align="center">|</td>
 				<td align="center"><a href="user-manual-cybermanager(v1.0).pdf" target="_blank" title="User Manual - User Guide"><img src="images/user-manual.gif" alt="Help" height="100" width="100" border="0" /></a></td>
 				<td align="center">|</td>
-				<td align="center"><a href="http://www.moinshaikh.wordpress.com" target="_blank" title="Contact Developer"><img src="images/contact-icon.gif" width="100" height="100" border="0" /></a></td>
+				<td align="center"><a href="http://www.moinshaikh.wordpress.com" target="_blank" title="Contact the Developer"><img src="images/contact-icon.gif" width="100" height="100" border="0" /></a></td>
 			</tr>
 		</table>
 	</td>
