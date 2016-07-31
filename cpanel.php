@@ -98,9 +98,9 @@
                         <td class="cpanel-table"><a href="#"></a><a href="modules/expired-id-report/index.php"><img src="images/report-exp-idprf.gif" alt="Exp id report module" width="56" height="56" border="0" /></a></td>
                       </tr>
                       <tr>
-                        <td class="cpanel-table">Customer Report </td>
-                        <td class="cpanel-table">Services Report </td>
-                        <td class="cpanel-table">Expired ID Report </td>
+                        <td class="cpanel-table">Customer Report</td>
+                        <td class="cpanel-table">Services Report</td>
+                        <td class="cpanel-table">Expired ID Report</td>
                       </tr>
                     </table>
     <!-- InstanceEndEditable --></td>
