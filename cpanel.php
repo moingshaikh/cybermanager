@@ -109,7 +109,7 @@
     <td colspan="2" align="center">
 		<table border="0" align="center" width="100%" cellpadding="0" cellspacing="0">
 			<tr>
-				<td align="center"><a href="cpanel.php" title="Go to cPanle Home"><img src="images/home.png" width="100" height="100" border="0" /></a></td>
+				<td align="center"><a href="cpanel.php" title="Go to cPanel Home"><img src="images/home.png" width="100" height="100" border="0" /></a></td>
 				<td align="center">|</td>
 				<td align="center"><a href="about-cyber-manager.php" title="About Cyber Manager(v1.0)"><img src="images/about-us.gif" width="100" height="100" border="0" /></a></td>
 				<td align="center">|</td>
