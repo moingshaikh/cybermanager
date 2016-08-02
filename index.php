@@ -4,7 +4,7 @@
 /*
 * Cyber Manager (v1.0) - A Free For All Cyber Cafe Solution
 * http://www.moinshaikh.wordpress.com
-* Moin Shaikh
+* Moin Shaikh 
 * Version 1.0 (20-03-2011)
 * 
 * Copyright (c) 2011 Moin Shaikh
@@ -72,12 +72,12 @@ function clearText(field){
 		<form action="checklogin.php" method="post" name="form1">
 		<table border="0" cellpadding="0" cellspacing="10">
 		<tr>
-			<th class="input-field">Username </th>
+			<th class="input-field">Username</th>
 			<th class="input-field">&nbsp;</th>
 			<td><input name="username" type="text" id="username" value="username" onFocus="clearText(this)" onBlur="clearText(this)" class="input-text-box"></td>
 		</tr>
 		<tr>
-			<th class="input-field">Password </th>
+			<th class="input-field">Password</th>
 			<th class="input-field">&nbsp;</th>
 			<td><input name="password" type="password" id="password" value="password" onFocus="clearText(this)" onBlur="clearText(this)" class="input-text-box"></td>
 		</tr>
