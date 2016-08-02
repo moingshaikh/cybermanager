@@ -4,12 +4,12 @@ height:100%;
 }
 .customer_card{
 font-family:"Times New Roman", Times, serif;
-color:#000000;
+color:black;
 font-size:12px;
 }
 .cust-card-border {
 border:solid;
-border-color:#000000;
+border-color:black;
 }
 
 /* cpanel styles begin now */
