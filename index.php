@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!--
 /*
-* Cyber Manager (v1.0) - Free For All Cyber Cafe Solution
+* Cyber Manager (v1.0) - A Free For All Cyber Cafe Solution
 * http://www.moinshaikh.wordpress.com
 * Moin Shaikh
 * Version 1.0 (20-03-2011)
