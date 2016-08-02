@@ -33,7 +33,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Cyber Manager (v1.0) : Admin Login</title>
+<title>Cyber Manager (v1.0) : Admin Login </title>
 <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen" title="default" />
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 <script type="text/javascript">
