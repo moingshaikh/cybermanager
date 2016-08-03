@@ -87,7 +87,7 @@ function clearText(field){
 		</tr>
 		<tr>
 			<th colspan="2"></th>
-			<td><input type="submit" name="submit" value="Login to cPanel!" /></td>
+			<td><input type="submit" name="submit" value="Login to cPanel." /></td>
 		</tr>
 		</table>
 		</form>
