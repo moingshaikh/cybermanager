@@ -6,7 +6,7 @@ function ValidateAddCustForm()
 
     if (document.add_customer.f_name.value == "" )
     {
-        alert ( "Please enter your 'First Name'." );
+        alert ( "Please enter 'First Name'." );
 		add_customer.f_name.focus();
         valid = false;
     }
