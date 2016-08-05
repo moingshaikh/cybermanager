@@ -4,7 +4,7 @@
 /*
 * Cyber Manager (v1.0) - Free For All Cyber Cafe Solution
 * http://www.moinshaikh.wordpress.com
-* Moin Shaikh
+* Moin Shaikh.
 * Version 1.0 (20-03-2011)
 * 
 * Copyright (c) 2011 Moin Shaikh
