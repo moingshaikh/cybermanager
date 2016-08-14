@@ -33,8 +33,8 @@
 include("dbconfig.php"); // cal the Database configuration file.
 
 // username and password sent from form
-$username=isset($_POST['username']) ? $_POST["username"] : "";
-$password=isset($_POST['password']) ? $_POST["password"] : "";
+$username=isset($_POST['username']) ? $_POST["username"] : ""; //capturing username from form and storing to db.
+$password=isset($_POST['password']) ? $_POST["password"] : ""; //capturing password from form and storing to db.
 
 // To protect MySQL injection (more detail about MySQL injection)
 $username = stripslashes($username);
