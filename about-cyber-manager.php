@@ -80,7 +80,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td class="about-page-text">Hello and welcome to Cyber Manager(v1.0). This page provides you a brief introductory details about Cyber Manager(v1.0). Cyber Manager(v1.0) is a web based application that can be used either on your website using your web host account or it can be run and used by installing on your computer hard drive's localhost.</td>
+				<td class="about-page-text">Hello and welcome to Cyber Manager(v1.0). This page provides you a brief introductory details about Cyber Manager(v1.0). Cyber Manager(v1.0) is a free and opensource web based application that can be used either on your website using your web host account or it can be run and used by installing on your computer hard drive's localhost.</td>
 			</tr>
 			<tr>
 				<td>&nbsp;</td>
