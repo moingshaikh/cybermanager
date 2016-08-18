@@ -90,7 +90,7 @@
 			</tr>
 			<tr>
 				<td>
-					<h4 class="form-text-titles">Salient features of Cyber Manager(v1.0)</h4>
+					<h4 class="form-text-titles">The salient features of Cyber Manager(v1.0)</h4>
 					<ul type="square" class="about-page-text">
 						<li>Open Source. Free for all!</li>
 						<li>Web Application, runs online / offline.</li>
