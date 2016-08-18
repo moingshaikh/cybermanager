@@ -86,7 +86,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-			  <td class="about-page-text">Cyber Manager(v1.0) is a reliable, efficient and powerfull solution to the problems that are being faced by Cyber Cafe administrators who are managing cyber cafe manually. And the Great thing about this Cyber Manager(v1.0) is that its an Open Source software (Free for all!). This application is distributed under <a href="gnu-gpl-license.html" title="GNU GPL License" target="_blank" class="link"><em><strong>GNU General Public Liecense</strong></em></a>. <br /></td>
+			  <td class="about-page-text">Cyber Manager(v1.0) is a reliable, efficient and powerfull web solution to the problems that are being faced by Cyber Cafe administrators who are managing cyber cafe manually. And the Great thing about this Cyber Manager(v1.0) is that its an Open Source software (Free for all!). This application is distributed under <a href="gnu-gpl-license.html" title="GNU GPL License" target="_blank" class="link"><em><strong>GNU General Public Liecense</strong></em></a>. <br /></td>
 			</tr>
 			<tr>
 				<td>
