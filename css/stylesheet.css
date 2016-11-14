@@ -17,6 +17,7 @@ border-color:#000000;
 .arrowlistmenu{
 width: 100%; /*width for accordion menu*/
 text-decoration:none;
+
 }
 
 .arrowlistmenu .menuheader { /*CSS class for the menu headers in general (expanding or not!)*/
@@ -80,6 +81,7 @@ text-decoration:none;
 .arrowlistmenu ul li a:hover{ /*hover state CSS*/
 background-color: #99CCFF;
 text-decoration:none;
+border:none;
 }
 
 .arrowlistmenu ul li a.subexpandable:hover{ /*hover state CSS for sub menu header*/
