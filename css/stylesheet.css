@@ -90,7 +90,7 @@ background: #993333;
 }
 .form-bg {
 background:#529FD5;
-border:1px #FFFFFF;
+border:solid 1px #FFFFFF;
  }
 .form-text-box{
 color: #0066FF;
@@ -139,6 +139,7 @@ color:#0066CC;
 font-weight:bold;
 font-size:14px; 
 text-align:justify;
+text-decoration:none;
 }
 #faq-quest a:link {font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; text-align:justify; font-weight:bold}
 #faq-quest a:visited {font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; text-align:justify; font-weight:bold}
