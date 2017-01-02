@@ -50,7 +50,7 @@ $count=mysql_num_rows($result);
 // If result matched $username and $password, table row must be 1 row
 
 if($count==1){
-// Register $username, $password and redirect to file "login_success.php"
+// Register $username, $password and redirect the page to to file "login_success.php"
 session_register("username");
 session_register("password");
 header("location:cpanel.php");
