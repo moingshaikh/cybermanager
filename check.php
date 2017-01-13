@@ -31,6 +31,6 @@
  <?php // code to check if user has logged in or not
 if(!isset($_SESSION['username']) || $_SESSION['username']=='')
 {
-	header("location:../../index.php"); // Redirect to home/index page.
+	header("location:../../index.php"); // Redirect to home page.
 }
 ?>
