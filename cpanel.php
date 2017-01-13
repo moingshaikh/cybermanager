@@ -47,9 +47,9 @@
   <tr>
     <td colspan="2" align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%" height="auto" align="center">
 				<tr>
-					<td width="22%" align="left" valign="middle"><a href="cpanel.php" title="Go to Home Page" ><img src="images/home.png" align="middle" border="0" width="56" height="56" /></a></td>
-					<td width="50%" align="center"><img src="images/logo_new.gif" width="400" height="150" title="Cyber Manager(v1.0)" /></td>
-					<td width="14%" align="center" valign="middle" style="padding:5px"><a href="logout.php" title="Logout!"><img src="images/logout.gif" width="85" height="85" border="0" /></a></td>
+					<td width="22%" align="left" valign="middle"><a href="cpanel.php" title="Go to Home Page" ><img src="images/home.png" align="middle" border="0" width="56" height="56" alt="Home" /></a></td>
+					<td width="50%" align="center"><img src="images/logo_new.gif" width="400" height="150" title="Cyber Manager(v1.0)" alt="Logo" /></td>
+					<td width="14%" align="center" valign="middle" style="padding:5px"><a href="logout.php" title="Logout!"><img src="images/logout.gif" width="85" height="85" border="0" alt="Logout" /></a></td>
 				<tr>
 					<td colspan="3" align="right">
 
