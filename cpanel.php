@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <!--
 /*
 * Cyber Manager (v1.0) - A 'Free For All' web based Cyber Cafe solution
@@ -122,4 +122,4 @@
   </tr>
 </table>
 </body>
-<!-- InstanceEnd --></html>
+</html>
